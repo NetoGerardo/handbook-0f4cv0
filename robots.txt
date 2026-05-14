@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NetoGerardo.github.io/handbook-0f4cv0/sitemap.xml
